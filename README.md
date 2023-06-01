@@ -5,9 +5,10 @@
 
 En este meetup aprenderemos:
 
-- 
-- 
-- 
+- Introducción a bucles (loops) en R: ¿Qué es un bucle y cuál es su utilidad e importancia en programación?
+- Estructuras de bucle en R: `For` para iterar sobre una secuencia de valores; `while` para iterar mientras se cumpla una condición; `repeat` para crear blucles infinitos. 
+- Control del flujo de bucles: `break` cómo interrumpir un bucle y salir de él antes de que se complete; `next` cómo omitir una iteración y pasar a la siguiente en un bucle.
+- En R existe la familia de funciones `apply()`; `lapply()`; `sapply()`... 
 
 ## Fecha 
 
@@ -18,7 +19,8 @@ Jueves 08 de junio de 2023
 
 - Azalea Reyes Aguilar 
 
-Azalea es ....
+Azalea es co-organizadora del capítulo R-Ladies Querétaro y académica en la Facultad de Psicología, UNAM.
+
 
 
 ## Materiales
